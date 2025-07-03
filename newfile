@@ -1,0 +1,4 @@
+echo "새로운 파일" > newfile.txt
+git add newfile.txt
+git commit -m "세 번째 커밋: newfile.txt 추가"
+git push origin main
