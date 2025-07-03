@@ -1,0 +1,4 @@
+echo "Hello World" > hello.txt
+git add hello.txt
+git commit -m "첫 번째 커밋: hello.txt 추가"
+git push origin main
