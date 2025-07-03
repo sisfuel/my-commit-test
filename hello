@@ -1,0 +1,4 @@
+echo "두 번째 줄 추가" >> hello.txt
+git add hello.txt
+git commit -m "두 번째 커밋: 내용 추가"
+git push origin main
